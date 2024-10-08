@@ -1,16 +1,12 @@
-# 🌟 PÁGINA HTML PARA ESCOLA 
+# 🌟 PÁGINA HTML
 
-![Licença](https://img.shields.io/badge/licença-MIT-blue.svg) ![Versão](https://img.shields.io/badge/versão-1.0.0-brightgreen.svg)
+![Licença](https://img.shields.io/badge/licença-U55-blue.svg) ![Versão](https://img.shields.io/badge/versão-5.3.0-brightgreen.svg)
+
 
 ## 📋 Descrição
 
 conteúdo todo direcionado a escola, curso do ALURA 🧑🏻‍💻
 
-## 📦 Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
 
 ## 📥 Download do Repositório
 
