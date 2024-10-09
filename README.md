@@ -8,7 +8,7 @@
 conteúdo todo direcionado a escola, curso do ALURA 🧑🏻‍💻
 
 
-## 📥 Download do Repositório
+## 📥 Download do Repositório inteiro
 
 Clique para [baixar o repositório](https://github.com/seu-usuario/nome-do-projeto/archive/refs/heads/main.zip).
 
